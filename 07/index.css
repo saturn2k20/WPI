@@ -1,0 +1,12 @@
+.fonteSerif {
+ font-family: "verdana , Arial";
+ font-size: 80px;
+}
+.fonteSans-serif {
+    font-family: "arial";
+    font-size: 40px
+}
+.fonteMonospace{
+    font-family: "Couier New"; 
+    font-size: 20px
+}

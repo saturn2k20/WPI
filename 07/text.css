@@ -1,0 +1,12 @@
+.fonteSerif {
+ font-family: "Times New Roman";
+ font-size: 80px;
+}
+.fonteSans-serif {
+    font-family: "verdana";
+    font-size: 40px
+}
+.fonteMonospace{
+    font-family: "Couier New";
+    font-size: 20px
+}
