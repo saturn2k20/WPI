@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(154, 154,154);
+
+}
+.conf {
+    background-color: #f0f0ee;
+    color: #000000;
+    padding-bottom: 9px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    line-height: 1px;
+    text-align: left;
+    width: 200px;
+    margin: 20px;
+}
+.imagem{
+    float: center;
+    width: 200px;
+}
+.container{
+    display:flex;
+    float: left;
+}
+.lorem{
+    width: 1000px;
+}
